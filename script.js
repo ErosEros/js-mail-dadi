@@ -53,7 +53,7 @@ else if (giocatore < computer)
 console.log('COMPUTER WIN')
 // numero uguale : pareggio!
 
-else (giocatore === computer)
+else if (giocatore === computer)
 console.log('PAREGGIO')
 
 // Stabilire il vincitore, in base a chi fa il punteggio più alto.
